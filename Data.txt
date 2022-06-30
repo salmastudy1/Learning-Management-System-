@@ -1,0 +1,38 @@
+Professor 1000 Hadir_Hany 01023665971 Giza,Cairo CSE 9:30am_May_23,2020 9:30am_May_23,2020 3:45pm_May_17,2020 /
+Professor 1001 Ali_ElGendy 012339271615 October,Cairo HUM /
+Professor 1002 Ghada_Yasser 0112490227 Dokki,Cairo HUM 11:00am_May_28,2020 /
+Professor 1003 Ziad_Ahmed 01171884645 October,Cairo MCT 10:30am_June_06,2020 /
+Professor 1004 Hazem_Ayman 01159711699 Sheraton,Cairo ECE 4:15pm_May_22,2020 /
+Professor 1005 Martina_Ghaly 01229446378 El_Obour,Cairo UPL 6:00pm_May_19,2020 3:00pm_June_15,2020 /
+Professor 1006 Ahmed_Metwaly 01131022354 Sheikh_Zayed,Cairo CES 10:45am_May_20,2020 /
+Professor 1007 Omar_Nageeb 01255327986 Nasr_City,Cairo PHM 8:00am_May_22,2020 /
+Professor 1008 Gehad_Mahmoud 01062980623 El_Mohandseen,Cairo PHM 9:30pm_May_23,2020 /
+Professor 1009 Christina_Mohsen 01271681105 Rod_ElFarag,Cairo CES 5:45pm_May_15,2020 8:15am_May_16,2020 /
+Professor 1010 Sara_Eldeeb 01133069726 Heliopolis,Cairo CSE 3:30pm_June_06,2020 /
+Professor 1011 Rami_Hayek 01042386035 Nasr_City,Cairo UPL 12:15pm_June_02,2020 /
+Professor 1012 Marawan_Magdy 01092983310 El_Ahram,Cairo MCT 4:30pm_May_23,2020 /
+Professor 1013 Lara_Qandeel 01266754392 El_Rehab,Cairo ECE 9:45am_May_18,2020 /
+Professor 1014 Peter_Zakaria 01119560652 Nasr_City,Cairo PHM 7:00pm_May_20,2020 /
+Professor 1015 Hania_Ezzat 01169522574 EL_Tagamo3,Cairo HUM 6:30pm_June_03,2020 /
+Professor 1016 Lora_Sallam 01283774208 Sheraton,Cairo CSE 3:30pm_May_30,2020 /
+Professor 1017 Fadi_Abdullah 01044384673 Maadi,Cairo CES 8:15am_May_16,2020 /
+Professor 1018 Dina_Taher 01068293959 Dokki,Cairo PHM 11:30am_May_25,2020 /
+Professor 1019 Yasmeen_Salah 01143372921 Sheikh_Zayed,Cairo UPL 10:00am_June_09,2020 /
+Professor 1020 Anas_Ehab 01093755236 Mohandseen,Cairo MCT 3:15pm_May_27,2020 /
+Professor 1021 Salma_ELsembawy 01583800748 El_Tagamo3,Cairo CSE 9:00am_May_23,2020 /
+Professor 1022 Loay_Nabil 01239747459 Madinty,Cairo PHM 5:00pm_May_30,2020 /
+Professor 1023 Maryam_Hafez 01037953264 Nasr_City,Cairo MCT 12:15pm_June_01,2020 /
+Professor 1024 Tariq_Hamid 01067328992 EL_Obour,Cairo UPL 9:00am_May_29,2020 /
+Professor 1025 Doaa_Shady 01253546856 Sheraton,Cairo HUM 7:30pm_May_21,2020 /
+Professor 1026 Jala_Amr 01144793490 October,Cairo CES 3:45pm_May_24,2020 /
+Mainstream 200 Ranwa_Waleed 01024190154 ElSherouk,Cairo Female 1250 CSE Junior
+Mainstream 201 Shrief_Mansour 01191003687 October,Cairo Male 1000 PHM Sophomore
+Mainstream 202 Norien_Tamer 01287619733 El_Rehab,Cairo Female 900 MCT Senior
+Mainstream 203 Hamees_El_Ghazali 01159713442 October,Cairo Female 680 UPL Junior
+Mainstream 204 Ali_Khaled 01134728876 Madinty,Cairo Male 1350 HUM Senior
+Mainstream 205 Atheer_Sami 01220508363 Nasr_City,Cairo Female 1010 CES Freshmen
+Credit 550 Ahmed_Bassem 01028401563 Roxy,Cairo Male 22300 ECE Junior 3.3
+Credit 551 Tarek_Mohamed 01154503124 El_Dokki,Cairo Male 18900 MCT Junior 2.4
+Credit 552 Hoda_Fawzy 01032144001 El_Rehab,Cairo Female 20500 CES Sophomore 1.2
+Credit 553 Mohamed_Nader 01260001515 Madinty,Cairo Male 19500 PHM Senior 4
+Credit 554 Samy_Mahmoud 01153301523 October,Cairo Male 21200 UPL Freshmen 3.1
